@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm not a Developer but love programming and majored in Computer Enginnering ✨
+I'm not a developer 🔥
+but love programming and majored in Computer Engineering in KHU ✨
+
+Focused on building a buisness with programming.
+We can influence beyond time and space with programming.
+
 
 
 <!--
