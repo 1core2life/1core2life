@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm not a Developer but love programming and majored in Computer Enginnering ✨
+
+
 <!--
 **1core2life/1core2life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
