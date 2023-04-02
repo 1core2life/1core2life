@@ -1,4 +1,4 @@
-***Focused on building a buisness with programming. We can influence beyond time and space with programming.***
+***Focused on building a buisness impact. We can influence beyond time and space with programming.***
 
 ## Skill
 
