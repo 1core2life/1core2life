@@ -8,9 +8,9 @@
 
 ## Interest
 
-🎉 Backend Engineering
+🎉 Backend Engineering (Now)
 
-📊 Machine Learning (Computer Vision)
+📊 Machine Learning (Prev)
 
 
 
