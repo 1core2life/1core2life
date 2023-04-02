@@ -1,13 +1,17 @@
-Focused on building a buisness with programming.
+***Focused on building a buisness with programming. We can influence beyond time and space with programming.***
 
-We can influence beyond time and space with programming.
+## Skill
 
+🐍 Python / Flask
+
+☕ Java / Spring
 
 ## Interest
 
+🎉 Backend Engineering
+
 📊 Machine Learning (Computer Vision)
 
-🎉 Backend Engineering
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1core2life&count_bg=%2370AAE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
